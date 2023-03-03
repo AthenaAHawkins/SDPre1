@@ -76,7 +76,7 @@ public class Objective9Lab5 {
 	}
 
 	public static double calcTax(double x, double y) {
-		double calcTax = ((x + y) * (0.831)); 
+		double calcTax = ((x + y) * (0.0831)); 
 		return calcTax;
 	}
 
